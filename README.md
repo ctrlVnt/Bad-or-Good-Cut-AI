@@ -3,6 +3,8 @@ Binary classification for good or bad cut videos in the scenes
 
 Research for University of Nantes
 
+Made by Riccardo VENTURINI and Halim NJEIM
+
 ## Project objective
 
 The goal of the project was to train a model with pre-trained weights to recognize a good or bad cut of a movie scene following the best practices of video editing.
@@ -41,11 +43,11 @@ Even if the training on biggest dataset gave a good results in real life we had 
 
 We suspect **Data Shift Problem**, infact the model, although not overfitting, was strong in validation at guessing videos it had never seen, but were part of the same database, therefore videos exported with the same encoding, but was not effective ad all on new videos.
 
-Our database was built from the database provided by MovieCuts, but we recommend rebuilding it from scratch to address this type of issue.
+Our database was built from the database provided by [MovieCuts](https://github.com/PardoAlejo/MovieCuts), but we recommend rebuilding it from scratch to address this type of issue.
 
 ## How to use
 
 - main.ipynb to start training
 - Create a folder with some cuts, called test_folder, and to test the model : ```python3 test.py```
 
-NB: We give our model with the bests performance to try it, but you can do better!
+NB: You need to train a model before, after export it ad add to root. Be careful with file names and variables declared in Python scripts.
