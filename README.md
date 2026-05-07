@@ -3,7 +3,7 @@ Binary classification for good or bad cut videos in the scenes
 
 Research for University of Nantes
 
-Made by Riccardo VENTURINI and Halim NJEIM
+Made by Riccardo VENTURINI and [Halim NJEIM](https://github.com/halim-njeim)
 
 ## Project objective
 
