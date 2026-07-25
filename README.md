@@ -1,7 +1,7 @@
-# Bad-or-Good-Cut
+# Bad or Good Cut AI recognition
 Binary classification for good or bad cut videos in the scenes
 
-Research for University of Nantes
+Research for **University of Nantes**
 
 Made by Riccardo VENTURINI and [Halim NJEIM](https://github.com/halim-njeim)
 
