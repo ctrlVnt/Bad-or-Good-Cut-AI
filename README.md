@@ -45,7 +45,7 @@ We suspect **Data Shift Problem**, infact the model, although not overfitting, w
 
 Our database was built from the database provided by [MovieCuts](https://github.com/PardoAlejo/MovieCuts), but we recommend rebuilding it from scratch to address this type of issue.
 
-To see all final presentation -> ![alt text](public/Soutenance-finale.pdf)
+To see all final presentation -> ![here](public/Soutenance-finale.pdf)
 
 ## How to use
 
